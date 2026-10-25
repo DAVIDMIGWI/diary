@@ -1,0 +1,17 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home",
+      "default": true
+    }
+  ],
+  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home",
+  "terminal.integrated.env.osx": {
+    "JAVA_HOME": "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home",
+    "ANDROID_HOME": "/Users/davidmigwi/Library/Android/sdk",
+    "ANDROID_SDK_ROOT": "/Users/davidmigwi/Library/Android/sdk",
+    "PATH": "${env:PATH}:/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin:/Users/davidmigwi/Library/Android/sdk/cmdline-tools/latest/bin:/Users/davidmigwi/Library/Android/sdk/platform-tools:/Users/davidmigwi/Library/Android/sdk/emulator"
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
